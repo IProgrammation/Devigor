@@ -24,9 +24,9 @@ Tenho 28, cursando Analise e Desenvolvimento de Sistemas, nivel de Inglês Inter
 ## 📊 Estatísticas
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=vulgotaj&show_icons=true&theme=tokyonight" />
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=DevIgor-lab&show_icons=true&theme=tokyonight" />
   &nbsp;&nbsp;&nbsp;
-  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vulgotaj&layout=compact&theme=tokyonight" />
+  <img height="170em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DevIgor-lab&layout=compact&theme=tokyonight" />
 </div>
 
 ---
